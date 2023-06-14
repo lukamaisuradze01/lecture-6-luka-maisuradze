@@ -1,0 +1,338 @@
+body{
+    padding-top:21px;
+    
+}
+
+
+header{
+    padding-left: 136px;
+
+    margin-left:135px;
+    position:fixed;
+    z-index: 9999;
+    top:0;
+    width:100%;
+    margin-top:20px;
+    background-color:aliceblue;
+    border-radius:10px;
+}
+
+ .ul1 li{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right:35px;
+    font-weight:700;
+    font-size:11px;
+
+ }
+ nav{
+    display: inline-block;
+ }
+ .img1{
+    vertical-align: middle;
+    border-radius: 50px;
+ }
+
+
+
+
+ .div1{
+    
+    margin-top:41px;
+    margin-left:137px;
+ }
+
+.trending{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+
+ }
+ .container{
+    margin-left:138px;
+    height:400px;
+    
+ }
+
+.container{
+    position: relative;
+    width:362px;
+    display: inline-block;
+    margin-top:27px;
+    height:400px;
+
+}
+
+.sea1div{
+    
+    
+    position: absolute;
+    display: inline-block;
+
+
+}
+
+.seatext{
+    background-color:#ffff;
+    
+    height:170px;
+    display:inline-block;
+    width:362px;
+    font-family: 'Roboto', sans-serif;
+    border-radius:4px;
+    
+    
+    
+}
+
+.seatextp{
+    color:#8A8787;
+    margin: 0 auto;   
+    margin-top:40px;
+    width:238px;  
+    line-height: 15px;
+    font-size:12px;
+
+}
+
+.clock{
+    
+    margin-left:60px;
+    vertical-align: middle;
+    margin-top:12px;
+}
+
+.mago{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top:12px;
+    color:#8A8787;
+
+    
+    
+
+}
+
+.container2{
+    position: relative;
+    width:362px;
+    display: inline-block;
+    margin-top:27px;
+    height:400px;
+    margin-left:40px;
+    vertical-align: top;
+}
+.imagediv{
+    vertical-align: top;
+    position: relative;
+    
+}
+
+.imagedivp1{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+
+
+}
+
+
+
+
+
+.imagedivp2{
+    
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+      
+      
+    
+}
+
+.container3{
+ 
+
+
+
+
+    
+    display: inline-block;
+    margin-left:404px;
+    vertical-align: top;
+    position: relative;
+      
+}
+
+.section1{
+    height:500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.happening{
+    margin-left:140px;
+   
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:700;
+}
+
+
+.doublediv{
+    display:inline-block;
+    height:905px;
+    width:764px;
+   
+    margin-left:138px;
+    margin-top:0px;
+    vertical-align:top;
+}
+
+.xidisdiv{
+    height:436px;
+    width:764px;
+   
+    position: relative;
+    
+}
+
+
+.xidisp{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 23px;
+    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight:700;
+
+}
+
+.riverdiv{
+    height:432px;
+    width:760px;
+    
+    margin-top:42px;
+}
+
+
+
+
+.triplediv{
+    height:935px;
+    width:365px;
+    
+    display:inline-block;
+    vertical-align: top;
+    margin-left:42px;
+}
+
+.imagetye{
+    margin-bottom:98px;
+}
+
+.spilo{
+    margin-bottom:103px;
+}
+
+
+
+footer{
+    height:210px;
+    width:100%;
+    background-color:#243043;
+}
+
+footer nav ul li{
+    color:#818687;
+    font-size:20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:700;
+    
+}
+footer nav{
+    margin-top:59px;
+    margin-left:137px;
+}
+
+
+.li1{
+    margin-top:14px;
+
+
+}
+
+
+footer p {
+    margin-left:130px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top:100px;
+    color:#fff;
+    font-weight:400;
+    font-family: 'Roboto', sans-serif;
+
+}
+.divvv{
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.footerimg{
+    display: inline-block;
+    vertical-align:top;
+    margin-left:400px;
+}
+
+.imagefooter{
+    margin-top:70px;
+    height:70px;
+    width:70px;
+    
+}
